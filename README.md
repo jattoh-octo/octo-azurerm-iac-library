@@ -1,4 +1,4 @@
-# OCTO Azurerm Iac Library
+# OCTO azurerm Iac Library
 
 This module allows you to create resources on Microsoft Azure, is used by the Cloud Adoption Framework for Azure (CAF) landing zones to provision resources in an Azure subscription and can deploy resources being directly invoked from the Terraform registry.
 
